@@ -1,17 +1,16 @@
-### Hi there 👋, I'm Nikita
-I'm 15 years old and I'm from Russia. 
+[![Header](https://github.com/1TheNikita/1thenikita/blob/master/assets/header.png)](https://instagram.com/nlk801)
 
-Skills: C# / Python / System administrator / Web / Design / HTML / CSS
+## Im' a C# and Python developer, System administrator / Web / Design / HTML / CSS
 
-- 🔭 I’m currently working on own server minecraft
-- 🌱 I'm currently learning ASP.NET and in the future React
-- 💬 Ask me about my life 
+### Languages and Tools
+![CSharp](https://img.shields.io/badge/С%23-1766AB?style=for-the-badge&logo=c)
+![.Net](https://img.shields.io/badge/-Framework-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Sql](https://img.shields.io/badge/-Sql-1766AB?style=for-the-badge&logo=mysql&logoColor=00648B)
 
-## :phone: Contact me
+### Follow Me
+[![Instagram](https://img.shields.io/badge/-Instagram-1766AB?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nlk81)
+[![VK](https://img.shields.io/badge/-VK-1766AB?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/nlk81)
+[![Twitter](https://img.shields.io/badge/-Twitter-1766AB?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/nlk81)
 
-[Discord](https://discord.com): 1TheNikita#9919 | [E-Mail](mailto:nik-801@yandex.ru) | [Mysite](http://kaboom.pro)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/1thenikita)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nlk801/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/nlk801)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=1thenikita&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/1thenikita)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1thenikita&count_private=true&show_icons=true&bg_color=1766AB&title_color=E54E5D&icon_color=E54E5D)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1thenikita&layout=compact&count_private=true&show_icons=true&bg_color=1766AB&title_color=E54E5D&icon_color=E54E5D)](https://github.com/anuraghazra/github-readme-stats)
