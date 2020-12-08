@@ -8,7 +8,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-1766AB?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ### Follow Me
-[![Instagram](https://img.shields.io/badge/-Instagram-1766AB?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nlk81)
+[![Instagram](https://img.shields.io/badge/-Instagram-1766AB?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nlk801)
 [![VK](https://img.shields.io/badge/-VK-1766AB?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/nlk81)
 [![Twitter](https://img.shields.io/badge/-Twitter-1766AB?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/nlk81)
 
