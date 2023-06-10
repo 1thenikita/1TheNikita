@@ -1,14 +1,19 @@
 [![Header](https://github.com/1TheNikita/1thenikita/blob/master/assets/header.png)](https://instagram.com/nlk801)
 
-## Im' a C# and Python developer, System administrator / Web / Design / HTML / CSS
+## Im' a C#, TS and Python developer, System administrator / Web / Design / HTML / CSS
 
 ### Languages and Tools
 ![CSharp](https://img.shields.io/badge/С%23-1766AB?style=for-the-badge&logo=c)
-![.Net](https://img.shields.io/badge/-Framework-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![Sql](https://img.shields.io/badge/-Sql-1766AB?style=for-the-badge&logo=mysql&logoColor=00648B)
+![.NET](https://img.shields.io/badge/-.NET7-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Blazor](https://img.shields.io/badge/-Blazor-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![TS](https://img.shields.io/badge/-TypeScript-1766AB?style=for-the-badge&logo=typescript&logoColor=E5D3FF)
+![Sql](https://img.shields.io/badge/-SQL-1766AB?style=for-the-badge&logo=mysql&logoColor=E5D3FF)
+![Postgres](https://img.shields.io/badge/-Postgres-1766AB?style=for-the-badge&logo=postgresql&logoColor=E5D3FF)
 
 ### My projects
-[Marketplace](https://github.com/Kaboom-Corporation/Marketplace)
+[Marketplace](https://github.com/Kaboom-Corporation/Marketplace) - a system for conducting trade.
+
+[Onboarding system](https://github.com/TODO-RenameTeam/OnboardingBot) - a system for conducting employee onboarding.
 
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-1766AB?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nlk801)
