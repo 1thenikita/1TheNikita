@@ -1,6 +1,6 @@
 [![Header](https://github.com/1TheNikita/1thenikita/blob/master/assets/header.png)](https://instagram.com/nlk801)
 
-## Im' a C#, TS and Python developer, System administrator / Web / Design / HTML / CSS
+## I'm a C#, TS and Python developer, System administrator / Web / Design / HTML / CSS
 
 ### Languages and Tools
 ![CSharp](https://img.shields.io/badge/С%23-1766AB?style=for-the-badge&logo=c)
