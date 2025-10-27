@@ -4,11 +4,12 @@
 
 ### Languages and Tools
 ![CSharp](https://img.shields.io/badge/С%23-1766AB?style=for-the-badge&logo=c)
-![.NET](https://img.shields.io/badge/-.NET7-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![.NET](https://img.shields.io/badge/-.NET9-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Blazor](https://img.shields.io/badge/-Blazor-1766AB?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![TS](https://img.shields.io/badge/-TypeScript-1766AB?style=for-the-badge&logo=typescript&logoColor=E5D3FF)
 ![Sql](https://img.shields.io/badge/-SQL-1766AB?style=for-the-badge&logo=mysql&logoColor=E5D3FF)
 ![Postgres](https://img.shields.io/badge/-Postgres-1766AB?style=for-the-badge&logo=postgresql&logoColor=E5D3FF)
+![Python3](https://img.shields.io/badge/-Python-1766AB?style=for-the-badge&logo=python&logoColor=E5D3FF)
 
 ### My projects
 [Marketplace](https://github.com/Kaboom-Corporation/Marketplace) - a system for conducting trade.
@@ -16,6 +17,7 @@
 [Onboarding system](https://github.com/TODO-RenameTeam/OnboardingBot) - a system for conducting employee onboarding.
 
 ### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-1766AB?style=for-the-badge&logo=Telegram&logoColor=1C9DEB)](https://nlk81.t.me)
 [![Instagram](https://img.shields.io/badge/-Instagram-1766AB?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/nlk801)
 [![VK](https://img.shields.io/badge/-VK-1766AB?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/nlk81)
 [![Twitter](https://img.shields.io/badge/-Twitter-1766AB?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/nlk81)
